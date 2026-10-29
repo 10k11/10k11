@@ -13,5 +13,5 @@ svg{--tile:#f6f8fa}@media (prefers-color-scheme:dark){svg{--tile:#151b23}}</styl
 <rect x="1" y="1" width="3" height="76" rx="1.5" class="a" opacity="0"/>
 <g transform="translate(16,26)" fill="var(--fg)"><g transform="scale(1.1667)"><g fill="none" stroke="var(--fg)" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><ellipse cx="12" cy="12" rx="4.2" ry="10"/><path d="M2 12h20M4 6.5h16M4 17.5h16"/></g></g></g>
 <text class="h a" x="56" y="36" font-size="12" style="letter-spacing:2px">PORTFOLIO</text>
-<text class="m" x="56" y="56" font-size="12">localhost969.live</text>
+<text class="m" x="56" y="56" font-size="12">lokii.dev</text>
 </svg>

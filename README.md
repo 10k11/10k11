@@ -50,7 +50,7 @@
       <a href="mailto:lokeshnavale.dev@gmail.com"><img src="assets/tile-gmail.svg" alt="Gmail" width="160"/></a>
       <a href="https://discord.com/users/1005536880659529808"><img src="assets/tile-discord.svg" alt="Discord: lokii_11" width="160"/></a>
       <br/>
-      <a href="https://localhost969.live"><img src="assets/tile-portfolio.svg" alt="Portfolio: localhost969.live" width="160"/></a>
+      <a href="https://lokii.dev"><img src="assets/tile-portfolio.svg" alt="Portfolio: lokii.dev" width="160"/></a>
       <a href="https://github.com/10k11"><img src="assets/tile-github.svg" alt="GitHub: 10k11" width="160"/></a>
     </td>
   </tr>
