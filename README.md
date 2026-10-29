@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/vscode.svg" alt="VS Code style animated terminal" width="860"/>
+  <img src="assets/terminal-dark.svg" alt="animated terminal" width="820"/>
 </p>
 
 ## ✦ about me

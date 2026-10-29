@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300">
+  <defs>
+    <style>
+      text { font-family: Consolas, 'JetBrains Mono', 'Courier New', monospace; font-size: 15px; }
+      .u { fill: #4ec9b0; } .c { fill: #cccccc; } .b { fill: #569cd6; } .s { fill: #ce9178; }
+      .k { fill: #c586c0; } .f { fill: #dcdcaa; } .d { fill: #858585; } .g { fill: #6a9955; }
+      .l { opacity: 0; animation: show 0.01s forwards; }
+      .l1 { animation-delay: 0.4s; } .l2 { animation-delay: 1.3s; } .l3 { animation-delay: 2.2s; }
+      .l4 { animation-delay: 3.1s; } .l5 { animation-delay: 4.0s; } .l6 { animation-delay: 4.9s; }
+      .l7 { animation-delay: 5.8s; }
+      @keyframes show { to { opacity: 1; } }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="818" height="298" rx="10" fill="#1e1e1e" stroke="#3c3c3c" stroke-width="2"/>
+  <path d="M1 11a10 10 0 0 1 10-10h798a10 10 0 0 1 10 10v24H1z" fill="#252526"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="44" cy="19" r="6" fill="#ffbd2e"/><circle cx="64" cy="19" r="6" fill="#27c93f"/>
+  <text x="410" y="24" text-anchor="middle" class="d" style="font-size:12px">loki@localhost969: ~</text>
+
+  <g class="l l1"><text x="24" y="68"><tspan class="u">loki@localhost969</tspan><tspan class="c">:</tspan><tspan class="b">~</tspan><tspan class="c">$ </tspan><tspan class="f">whoami</tspan></text></g>
+  <g class="l l2"><text x="24" y="92" class="c">LOKI | Full-Stack Developer | UI/UX &amp; Web Security | CTF Player</text></g>
+  <g class="l l3"><text x="24" y="124"><tspan class="u">loki@localhost969</tspan><tspan class="c">:</tspan><tspan class="b">~</tspan><tspan class="c">$ </tspan><tspan class="f">cat</tspan><tspan class="c"> mission.txt</tspan></text></g>
+  <g class="l l4"><text x="24" y="148" class="s">play. break. build. design.</text></g>
+  <g class="l l5"><text x="24" y="180"><tspan class="u">loki@localhost969</tspan><tspan class="c">:</tspan><tspan class="b">~</tspan><tspan class="c">$ </tspan><tspan class="f">ls</tspan><tspan class="c"> ./stack</tspan></text></g>
+  <g class="l l6"><text x="24" y="204"><tspan class="b">typescript/</tspan><tspan class="c">  </tspan><tspan class="b">node/</tspan><tspan class="c">  </tspan><tspan class="b">react/</tspan><tspan class="c">  </tspan><tspan class="b">python/</tspan><tspan class="c">  </tspan><tspan class="b">docker/</tspan><tspan class="c">  </tspan><tspan class="b">burpsuite/</tspan><tspan class="c">  </tspan><tspan class="b">linux/</tspan></text></g>
+  <g class="l l7"><text x="24" y="236"><tspan class="u">loki@localhost969</tspan><tspan class="c">:</tspan><tspan class="b">~</tspan><tspan class="c">$ </tspan><tspan class="cur c">&#9608;</tspan></text></g>
+</svg>
