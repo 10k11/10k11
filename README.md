@@ -18,15 +18,17 @@
   <img src="assets/terminal-dark.svg" alt="animated terminal" width="820"/>
 </p>
 
-<p align="center">
-  <img src="assets/about.svg" alt="About me" width="820"/>
-</p>
+## About Me
 
-## Currently Into
+Full-stack developer focused on UI/UX and web security. I design the interface, build the application behind it, and then test how well it holds up.
 
-<p align="center">
-  <img src="assets/focus.svg" alt="focus status" width="820"/>
-</p>
+CTF player on team **localhost969**.
+
+## What I Do
+
+| Design | Build | Secure |
+|:--|:--|:--|
+| Interfaces that are clean, consistent and intuitive to use. | Fast, maintainable full-stack web applications. | Web security research, CTF challenges and bug-bounty style testing. |
 
 ## 🛰️ Live Discord Presence
 
