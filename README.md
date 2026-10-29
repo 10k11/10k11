@@ -18,29 +18,25 @@
   <img src="assets/vscode.svg" alt="VS Code style animated terminal" width="860"/>
 </p>
 
-## 📌 About Me
-- Full-Stack Developer who cares about how things look **and** how they hold up under attack
-- UI/UX and Web Security: designing clean interfaces, then trying to break them
-- CTF Player on team **localhost969**, where we break things on purpose and write about it
-- Running **Loki.js**, a Discord bot for CTF teams: workspaces, a daily CTF radar and news digests
-- Working with TypeScript, Node.js, React and Python
+## ✦ about me
 
-## 🧠 My Focus Areas
-- UI/UX design and design systems
-- Web security and exploitation
-- Backend development (Node.js, REST APIs, authentication)
-- Frontend engineering (React, Next.js, performance, UI/UX)
-- Automation and Discord tooling for CTF communities
-- Clean code and scalable design
+> *full-stack dev who designs it pretty, then tries to break it.* 🖤
+
+- 🎨 **ui/ux + web security**: pretty *and* hard to hack
+- 🚩 **ctf player** @ team `localhost969`
+- 🤖 built **Loki.js**, a discord bot for ctf crews
+- ⚡ stack: `typescript` · `node` · `react` · `python`
+
+## ✦ currently into
+
+| | |
+|---|---|
+| 🧪 **breaking** | web exploits, bug-bounty brain |
+| 🛠️ **building** | clean apps, discord tools, automation |
+| 🎧 **designing** | interfaces that actually feel good |
 
 ```ts
-while (alive) {
-  learn();
-  build();
-  breakIt();   // responsibly
-  captureFlag();
-  ship();
-}
+while (alive) { play(); break(); build(); design(); }
 ```
 
 ## 🛰️ Live Discord Presence
