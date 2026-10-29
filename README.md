@@ -46,7 +46,11 @@ while (alive) {
 
 > Real-time status pulled from Discord. If I'm coding, listening or gaming, you'll see it here.
 
-<!-- Lanyard presence card goes here once Discord ID is set -->
+<p align="center">
+  <a href="https://discord.com/users/1005536880659529808">
+    <img src="https://lanyard.cnrad.dev/api/1005536880659529808?theme=dark&bg=0D1117&animated=true&borderRadius=14px&idleMessage=Probably%20solving%20a%20CTF" alt="Discord live presence" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-lokii__11-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="discord"/>
@@ -139,7 +143,7 @@ Tracking the team's results and rankings on the global CTF scoreboard.
   <a href="mailto:lokeshnavale.dev@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/1005536880659529808">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://localhost969.live">
