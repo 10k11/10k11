@@ -37,46 +37,27 @@
   <img src="assets/stack.svg" alt="Languages and tools" width="820"/>
 </p>
 
-## Currently
-
 <p align="center">
-  <a href="https://discord.com/users/1005536880659529808">
-    <img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="460" />
-  </a>
+  <img src="assets/bottom-head.svg" alt="Currently and Connect" width="820"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-lokii__11-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="discord"/>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:lokeshnavale.dev@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/1005536880659529808">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://localhost969.live">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Portfolio" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/10k11">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <a href="https://discord.com/users/1005536880659529808"><img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="460"/></a>
+    </td>
+    <td valign="top">
+      <a href="mailto:lokeshnavale.dev@gmail.com"><img src="assets/tile-gmail.svg" alt="Gmail" width="160"/></a>
+      <a href="https://discord.com/users/1005536880659529808"><img src="assets/tile-discord.svg" alt="Discord: lokii_11" width="160"/></a>
+      <br/>
+      <a href="https://localhost969.live"><img src="assets/tile-portfolio.svg" alt="Portfolio: localhost969.live" width="160"/></a>
+      <a href="https://github.com/10k11"><img src="assets/tile-github.svg" alt="GitHub: 10k11" width="160"/></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="mailto:lokeshnavale.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-lokeshnavale.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="gmail"/></a>
-  <img src="https://img.shields.io/badge/Discord-lokii__11-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
-  <a href="https://localhost969.live"><img src="https://img.shields.io/badge/Portfolio-localhost969.live-0D1117?style=for-the-badge&logo=googlechrome&logoColor=1c98eb" alt="portfolio"/></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" width="360" />
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" width="420" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e48a8&height=120&section=footer" width="100%" alt="footer"/>
