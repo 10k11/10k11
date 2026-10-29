@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="10k11 banner"/>
+<img src="assets/hero-10k11.svg" width="100%" alt="10k11 banner"/>
 
 <p align="center">
   <a href="https://github.com/10k11">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal-dark.svg" alt="animated terminal" width="820"/>
+  <img src="assets/terminal.svg" alt="animated terminal" width="820"/>
 </p>
 
 <p align="center">
