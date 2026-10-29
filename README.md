@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=LOKI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CTF%20Player%20%E2%80%A2%20Web%20Apps%20%26%20Security%20Tools&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%" alt="LOKI banner"/>
+<img src="assets/banner.svg" width="100%" alt="LOKI banner"/>
 
 <p align="center">
   <a href="https://github.com/10k11">
