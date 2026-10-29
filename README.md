@@ -84,47 +84,6 @@ Tracking the team's results and rankings on the global CTF scoreboard.
   <img src="https://img.shields.io/badge/Pwn-00F5FF?style=flat-square&labelColor=0D1117"/>
 </p>
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### [Loki.js](https://github.com/10k11/Loki.js)
-Modular **Discord bot for CTF teams** and tech communities: server setup, CTF workspaces, daily CTF radar, news digests and radio.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F5FF)
-![Discord](https://img.shields.io/badge/Discord_Bot-0D1117?style=flat-square&logo=discord&logoColor=a371f7)
-
-    </td>
-    <td width="50%" valign="top">
-
-### [nexarena](https://github.com/10k11/nexarena)
-A TypeScript web project in the arena space.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F5FF)
-![Web](https://img.shields.io/badge/Web_App-0D1117?style=flat-square&logo=react&logoColor=a371f7)
-
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-### [Fresco-2k25](https://github.com/10k11/Fresco-2k25)
-Event web app built with TypeScript.
-
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=10k11&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="10k11 GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=10k11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="10k11 GitHub Trophies" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=10k11&bg_color=0D1117&color=a371f7&line=00F5FF&point=FFFFFF&area=true&area_color=a371f7&hide_border=true" alt="activity graph" width="100%"/>
 </p>
