@@ -10,23 +10,24 @@
 
 <p align="center">
   <a href="https://github.com/10k11">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=A371F7&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+loki.exe+...;%3E+Full-Stack+Developer;%3E+CTF+Player+%7C+Team+localhost969;%3E+Building+web+apps+%26+security+tools;%3E+break+it+to+understand+it.+build+it+better." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=A371F7&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+loki.exe+...;%3E+Full-Stack+Developer;%3E+UI%2FUX+%26+Web+Security;%3E+CTF+Player+%7C+Team+localhost969;%3E+play.+break.+build.+design." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="animated terminal" width="820"/>
+  <img src="assets/vscode.svg" alt="VS Code style animated terminal" width="860"/>
 </p>
 
 ## 📌 About Me
-- Full-stack developer building web apps and security tools, and playing CTFs on the side (or the other way round)
+- Full-Stack Developer who cares about how things look **and** how they hold up under attack
+- UI/UX and Web Security: designing clean interfaces, then trying to break them
+- CTF Player on team **localhost969**, where we break things on purpose and write about it
 - Running **Loki.js**, a Discord bot for CTF teams: workspaces, a daily CTF radar and news digests
-- Member of CTF team **localhost969**, where we break things on purpose and write about it
 - Working with TypeScript, Node.js, React and Python
-- Goal: ship real tools, win more flags, never stop learning
 
 ## 🧠 My Focus Areas
-- Web exploitation and bug-bounty style thinking
+- UI/UX design and design systems
+- Web security and exploitation
 - Backend development (Node.js, REST APIs, authentication)
 - Frontend engineering (React, Next.js, performance, UI/UX)
 - Automation and Discord tooling for CTF communities
