@@ -84,10 +84,6 @@ Tracking the team's results and rankings on the global CTF scoreboard.
   <img src="https://img.shields.io/badge/Pwn-00F5FF?style=flat-square&labelColor=0D1117"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10k11&bg_color=0D1117&color=a371f7&line=00F5FF&point=FFFFFF&area=true&area_color=a371f7&hide_border=true" alt="activity graph" width="100%"/>
-</p>
-
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%" />
 </div>
