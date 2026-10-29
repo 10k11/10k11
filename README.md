@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
 <p align="center">
   <a href="https://github.com/10k11">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=1C98EB&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+loki.exe+...;%3E+Full-Stack+Developer;%3E+UI%2FUX+%26+Web+Security;%3E+CTF+Player+%7C+Team+localhost969;%3E+play.+break.+build.+design." alt="Typing SVG" />
