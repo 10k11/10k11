@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ctf.svg" alt="CTF Arena: 5x CTF winner, team localhost969" width="820"/>
+  <img src="assets/ctf.svg" alt="CTF Arena: 5x podium finishes, 1 win, team localhost969" width="820"/>
 </p>
 
 <p align="center">
@@ -35,16 +35,6 @@
 
 <p align="center">
   <img src="assets/stack.svg" alt="Languages and tools" width="820"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/10k11">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10k11&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
 </p>
 
 ## Currently
