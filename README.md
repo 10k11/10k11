@@ -24,18 +24,6 @@
   <img src="assets/whatido.svg" alt="What I do: Design, Build, Secure" width="820"/>
 </p>
 
-## Currently
-
-<p align="center">
-  <a href="https://discord.com/users/1005536880659529808">
-    <img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="460" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-lokii__11-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="discord"/>
-</p>
-
 <p align="center">
   <img src="assets/ctf.svg" alt="CTF Arena: 5x CTF winner, team localhost969" width="820"/>
 </p>
@@ -85,6 +73,18 @@
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
+</p>
+
+## Currently
+
+<p align="center">
+  <a href="https://discord.com/users/1005536880659529808">
+    <img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="460" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-lokii__11-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="discord"/>
 </p>
 
 ## 🔗 Connect with Me
