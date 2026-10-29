@@ -70,14 +70,6 @@ Tracking the team's results and rankings on the global CTF scoreboard.
   <img src="https://img.shields.io/badge/Pwn-00F5FF?style=flat-square&labelColor=0D1117"/>
 </p>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/10k11/10k11/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
-</p>
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
