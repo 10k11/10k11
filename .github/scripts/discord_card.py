@@ -57,7 +57,7 @@ if user.get("avatar"):
 import math
 
 W, H = 460, 168
-PALETTE = {"cobalt": ("#08173d", "#1d4ed8"), "crimson": ("#3d0a14", "#c81d3c"), "violet": ("#1f0a3d", "#7c3aed")}
+PALETTE = {"cobalt": ("#0b1a40", "#1e48a8"), "crimson": ("#3d0a14", "#c81d3c"), "violet": ("#1f0a3d", "#7c3aed")}
 bg_a, bg_b = PALETTE.get(((user.get("collectibles") or {}).get("nameplate") or {}).get("palette"), PALETTE["cobalt"])
 styles = user.get("display_name_styles") or {}
 name_color = "#%06x" % styles["colors"][0] if styles.get("colors") else "#1c98eb"
@@ -85,27 +85,26 @@ o.append('<g clip-path="url(#card)">')
 o.append(f'<rect x="0" y="0" width="{W}" height="88" fill="url(#hd)"/>')
 if plate:
     o.append(f'<image href="{plate}" x="{W-448}" y="2" width="448" height="84" preserveAspectRatio="none"/>')
-o.append('<rect x="0" y="86" width="460" height="2" fill="#1c98eb" opacity="0.6"/>')
+o.append('<rect x="0" y="87" width="460" height="1" fill="#2b3a5c"/>')
 # ice crystal ring
 cx, cy = 48, 44
-o.append(f'<circle cx="{cx}" cy="{cy}" r="29" fill="none" stroke="#7fdcff" stroke-width="5" opacity="0.5" filter="url(#soft)"/>')
-o.append(f'<circle cx="{cx}" cy="{cy}" r="27.5" fill="none" stroke="url(#ice)" stroke-width="2.2" filter="url(#glow)"/>')
+o.append(f'<circle cx="{cx}" cy="{cy}" r="27.5" fill="none" stroke="#a8e2ff" stroke-width="1.6" opacity="0.9"/>')
 for i in range(12):
     ang = math.radians(i * 30 + 8)
-    long_ = 9 + (i % 3) * 3.5
+    long_ = 5 + (i % 3) * 2.5
     r0, r1 = 27, 27 + long_
     px, py = math.cos(ang), math.sin(ang)
     nx, ny = -py, px
-    w = 2.4 + (i % 2)
+    w = 1.6 + (i % 2) * 0.6
     pts = [(cx + px * r0 + nx * w, cy + py * r0 + ny * w), (cx + px * r1, cy + py * r1),
            (cx + px * r0 - nx * w, cy + py * r0 - ny * w), (cx + px * (r0 - 2), cy + py * (r0 - 2))]
-    o.append('<polygon points="' + " ".join(f"{x:.1f},{y:.1f}" for x, y in pts) + '" fill="url(#ice)" opacity="0.92" filter="url(#glow)"/>')
+    o.append('<polygon points="' + " ".join(f"{x:.1f},{y:.1f}" for x, y in pts) + '" fill="#d6f2ff" opacity="0.8"/>')
 if avatar:
     o.append(f'<image href="{avatar}" x="24" y="20" width="48" height="48" clip-path="url(#av)"/>')
 else:
     o.append(f'<circle cx="{cx}" cy="{cy}" r="24" fill="#1b2a52"/>')
 o.append(f'<circle cx="68" cy="64" r="7" fill="{STATUS.get(status, "#747f8d")}" stroke="#0a1020" stroke-width="3"/>')
-o.append(f'<text class="n" x="92" y="40" filter="url(#glow)">{escape(user.get("global_name") or user["username"])}</text>')
+o.append(f'<text class="n" x="92" y="40">{escape(user.get("global_name") or user["username"])}</text>')
 sub = f'@{user["username"]}  ·  {status}'
 if custom and custom.get("state"):
     sub = clip(custom["state"], 38)
@@ -125,7 +124,7 @@ else:
     o.append('<text class="m" x="22" y="124">No activity right now.</text>')
     o.append('<text class="s" x="22" y="144">Probably solving a CTF.</text>')
 o.append('</g>')
-o.append(f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="14" fill="none" stroke="#1c98eb" stroke-width="2" opacity="0.85"/>')
+o.append(f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="14" fill="none" stroke="#2b3a5c" stroke-width="1.5"/>')
 o.append("</svg>")
 
 os.makedirs(os.path.dirname(OUT) or ".", exist_ok=True)

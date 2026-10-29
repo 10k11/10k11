@@ -26,9 +26,9 @@
   <img src="assets/whatido.svg" alt="What I do: Design, Build, Secure" width="820"/>
 </p>
 
-## 🛰️ Live Discord Presence
+## Live Signal
 
-> Real-time status pulled from Discord. If I'm coding, listening or gaming, you'll see it here.
+> Synced from Discord in real time. Whatever I'm into right now shows up here.
 
 <p align="center">
   <a href="https://discord.com/users/1005536880659529808">
