@@ -1,119 +1,208 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=LOKI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CTF%20Player%20%E2%80%A2%20Web%20Apps%20%26%20Security%20Tools&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%" alt="LOKI banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:0D1117&height=220&section=header&text=LOKI&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20CTF%20Player%20%E2%80%A2%20Security%20Tools&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<p align="center">
+  <a href="https://github.com/10k11">
+    <img src="https://komarev.com/ghpvc/?username=10k11&label=Profile%20views&color=a371f7&style=flat-square" alt="10k11 profile views" />
+  </a>
+</p>
 
-<a href="https://github.com/10k11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+loki;%3E+building+web+apps+that+scale;%3E+writing+security+tools+that+bite;%3E+capturing+flags%2C+one+exploit+at+a+time" alt="Typing SVG" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-<br/>
+<p align="center">
+  <a href="https://github.com/10k11">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=A371F7&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+loki.exe+...;%3E+Full-Stack+Developer;%3E+CTF+Player+%7C+Team+localhost969;%3E+Building+web+apps+%26+security+tools;%3E+break+it+to+understand+it.+build+it+better." alt="Typing SVG" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=10k11&style=for-the-badge&color=7B2FF7&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/10k11?style=for-the-badge&logo=github&color=00F5FF&labelColor=0D1117)
-![Repos](https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0D1117)
+<p align="center">
+  <img src="assets/terminal.svg" alt="animated terminal" width="820"/>
+</p>
 
-</div>
+## 📌 About Me
+- Full-stack developer building web apps and security tools, and playing CTFs on the side (or the other way round)
+- Running **Loki.js**, a Discord bot for CTF teams: workspaces, a daily CTF radar and news digests
+- Member of CTF team **localhost969**, where we break things on purpose and write about it
+- Working with TypeScript, Node.js, React and Python
+- Goal: ship real tools, win more flags, never stop learning
 
----
-
-## `> ./about_me.sh`
+## 🧠 My Focus Areas
+- Web exploitation and bug-bounty style thinking
+- Backend development (Node.js, REST APIs, authentication)
+- Frontend engineering (React, Next.js, performance, UI/UX)
+- Automation and Discord tooling for CTF communities
+- Clean code and scalable design
 
 ```ts
-const loki = {
-  role:     "Full-Stack Developer",
-  hobby:    "CTF Player",
-  building: ["Web Apps", "Security Tools", "Discord Bots for CTF teams"],
-  stack:    ["TypeScript", "Node.js", "React / Next.js", "Python"],
-  focus:    ["Web exploitation", "Automation", "Clean, shippable code"],
-  status:   "Always learning. Always shipping.",
-};
+while (alive) {
+  learn();
+  build();
+  breakIt();   // responsibly
+  captureFlag();
+  ship();
+}
 ```
 
----
+## 🛰️ Live Discord Presence
 
-## `> cat /etc/skills`
+> Real-time status pulled from Discord. If I'm coding, listening or gaming, you'll see it here.
 
-<div align="center">
+<!-- Lanyard presence card goes here once Discord ID is set -->
 
-**Languages & Frontend**
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-lokii__11-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="discord"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,tailwind&theme=dark" alt="languages" />
-
-**Backend, Data & DevOps**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,git,linux,bash&theme=dark" alt="backend" />
-
-**Security & Tooling**
-
-<img src="https://skillicons.dev/icons?i=kali,burpsuite,wireshark,vscode,github,discord&theme=dark" alt="security" />
-
-</div>
-
----
-
-## `> ls ~/projects`
+## 🚩 CTF Arena
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🛰️ [Loki.js](https://github.com/10k11/Loki.js)
-Modular **Discord bot for CTF teams** and tech communities: server setup, CTF workspaces, a daily CTF radar, news digests and radio.
+### 🏴 Team localhost969
+Our CTF team and its portfolio: writeups, achievements and the crew.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F5FF)
-![Discord](https://img.shields.io/badge/Discord_Bot-0D1117?style=flat-square&logo=discord&logoColor=7B2FF7)
+<a href="https://localhost969.live"><img src="https://img.shields.io/badge/PORTFOLIO-localhost969.live-a371f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="portfolio"/></a>
 
     </td>
     <td width="50%" valign="top">
 
-### 🎮 [nexarena](https://github.com/10k11/nexarena)
+### 📊 CTFtime
+Tracking the team's results and rankings on the global CTF scoreboard.
+
+<a href="https://ctftime.org"><img src="https://img.shields.io/badge/CTFTIME-View_Team-00F5FF?style=for-the-badge&logo=flag&logoColor=white&labelColor=0D1117" alt="ctftime"/></a>
+
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-Exploitation-a371f7?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Crypto-00F5FF?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Forensics-a371f7?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-00F5FF?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/OSINT-a371f7?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Pwn-00F5FF?style=flat-square&labelColor=0D1117"/>
+</p>
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [Loki.js](https://github.com/10k11/Loki.js)
+Modular **Discord bot for CTF teams** and tech communities: server setup, CTF workspaces, daily CTF radar, news digests and radio.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F5FF)
+![Discord](https://img.shields.io/badge/Discord_Bot-0D1117?style=flat-square&logo=discord&logoColor=a371f7)
+
+    </td>
+    <td width="50%" valign="top">
+
+### [nexarena](https://github.com/10k11/nexarena)
 A TypeScript web project in the arena space.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F5FF)
-![Web](https://img.shields.io/badge/Web_App-0D1117?style=flat-square&logo=react&logoColor=7B2FF7)
+![Web](https://img.shields.io/badge/Web_App-0D1117?style=flat-square&logo=react&logoColor=a371f7)
 
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
 
-### 🌐 [Fresco-2k25](https://github.com/10k11/Fresco-2k25)
+### [Fresco-2k25](https://github.com/10k11/Fresco-2k25)
 Event web app built with TypeScript.
 
     </td>
   </tr>
 </table>
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=10k11&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="10k11 GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=10k11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="10k11 GitHub Trophies" />
+</p>
 
-## `> git log --stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=10k11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10k11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" alt="top langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=10k11&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=00F5FF&currStreakLabel=00F5FF" alt="streak" />
-
-</div>
-
----
-
-## `> ./connect.sh`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10k11&bg_color=0D1117&color=a371f7&line=00F5FF&point=FFFFFF&area=true&area_color=a371f7&hide_border=true" alt="activity graph" width="100%"/>
+</p>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-10k11-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/10k11)
-[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=7B2FF7)](mailto:navalelokesh11@gmail.com)
-
-<br/>
-
-```
- ┌──────────────────────────────────────────────┐
- │  "Break it to understand it. Build it better." │
- └──────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2FF7,100:00F5FF&height=120&section=footer" width="100%" alt="footer" />
-
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/10k11/10k11/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
+</p>
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+</p>
+
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+</p>
+
+<h3 align="center">Security & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,burpsuite,wireshark,linux,docker,git,vscode&theme=dark" alt="security tools" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/10k11">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10k11&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:lokeshnavale.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://localhost969.live">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Portfolio" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/10k11">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:lokeshnavale.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-lokeshnavale.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="gmail"/></a>
+  <img src="https://img.shields.io/badge/Discord-lokii__11-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
+  <a href="https://localhost969.live"><img src="https://img.shields.io/badge/Portfolio-localhost969.live-0D1117?style=for-the-badge&logo=googlechrome&logoColor=a371f7" alt="portfolio"/></a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:a371f7&height=120&section=footer" width="100%" alt="footer"/>
