@@ -2,15 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/10k11">
-    <img src="https://komarev.com/ghpvc/?username=10k11&label=Profile%20views&color=a371f7&style=flat-square" alt="10k11 profile views" />
+    <img src="https://komarev.com/ghpvc/?username=10k11&label=Profile%20views&color=1c98eb&style=flat-square" alt="10k11 profile views" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
 <p align="center">
   <a href="https://github.com/10k11">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=A371F7&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+loki.exe+...;%3E+Full-Stack+Developer;%3E+UI%2FUX+%26+Web+Security;%3E+CTF+Player+%7C+Team+localhost969;%3E+play.+break.+build.+design." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=1C98EB&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+loki.exe+...;%3E+Full-Stack+Developer;%3E+UI%2FUX+%26+Web+Security;%3E+CTF+Player+%7C+Team+localhost969;%3E+play.+break.+build.+design." alt="Typing SVG" />
   </a>
 </p>
 
@@ -49,7 +47,7 @@
 ### 🏴 Team localhost969
 Our CTF team and its portfolio: writeups, achievements and the crew.
 
-<a href="https://localhost969.live"><img src="https://img.shields.io/badge/PORTFOLIO-localhost969.live-a371f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="portfolio"/></a>
+<a href="https://localhost969.live"><img src="https://img.shields.io/badge/PORTFOLIO-localhost969.live-1c98eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="portfolio"/></a>
 
     </td>
     <td width="50%" valign="top">
@@ -64,11 +62,11 @@ Tracking the team's results and rankings on the global CTF scoreboard.
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web-Exploitation-a371f7?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Web-Exploitation-1c98eb?style=flat-square&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Crypto-00F5FF?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Forensics-a371f7?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Forensics-1c98eb?style=flat-square&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Reverse_Engineering-00F5FF?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/OSINT-a371f7?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/OSINT-1c98eb?style=flat-square&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Pwn-00F5FF?style=flat-square&labelColor=0D1117"/>
 </p>
 
@@ -141,11 +139,11 @@ Tracking the team's results and rankings on the global CTF scoreboard.
 <p align="center">
   <a href="mailto:lokeshnavale.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-lokeshnavale.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="gmail"/></a>
   <img src="https://img.shields.io/badge/Discord-lokii__11-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
-  <a href="https://localhost969.live"><img src="https://img.shields.io/badge/Portfolio-localhost969.live-0D1117?style=for-the-badge&logo=googlechrome&logoColor=a371f7" alt="portfolio"/></a>
+  <a href="https://localhost969.live"><img src="https://img.shields.io/badge/Portfolio-localhost969.live-0D1117?style=for-the-badge&logo=googlechrome&logoColor=1c98eb" alt="portfolio"/></a>
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:a371f7&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e48a8&height=120&section=footer" width="100%" alt="footer"/>
