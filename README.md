@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="LOKI banner"/>
+<img src="assets/hero.svg" width="100%" alt="LOKI banner"/>
 
 <p align="center">
   <a href="https://github.com/10k11">
