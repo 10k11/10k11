@@ -14,6 +14,11 @@ svg{--fg:#1f2328;--mut:#57606a;--ac:#0969da;--ln:#d0d7de}
 <rect x="168" y="104" width="2" height="82" fill="var(--ln)"/>
 <rect x="168" y="104" width="2" height="30" class="a"/>
 <text class="h" x="192" y="132" font-size="24" style="letter-spacing:3px">PODIUM FINISHES</text>
-<text class="m" x="192" y="164" font-size="18">1 win and 4 top-3 finishes with team <tspan class="a" font-weight="700">localhost969</tspan></text>
-<text class="m" x="192" y="188" font-size="16">Capture the flag. Repeat.</text>
+<text class="m" x="192" y="162" font-size="18">1 win and 4 top-3 finishes</text>
+<text class="m" x="192" y="188" font-size="16">Team <tspan class="a" font-weight="700">localhost969</tspan></text>
+<rect x="596" y="104" width="2" height="82" fill="var(--ln)"/>
+<rect x="596" y="104" width="2" height="30" class="a"/>
+<text class="m" x="620" y="116" font-size="12" style="letter-spacing:3px">CTFTIME</text>
+<text class="h a" x="618" y="168" font-size="58" style="letter-spacing:0">#10</text>
+<text class="h" x="620" y="190" font-size="15" style="letter-spacing:3px">IN INDIA</text>
 </svg>

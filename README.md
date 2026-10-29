@@ -25,12 +25,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/ctf.svg" alt="CTF Arena: 5x podium finishes, 1 win, team localhost969" width="820"/>
+  <img src="assets/ctf.svg" alt="CTF Arena: 5x podium finishes, 1 win, team localhost969, number 10 in India on CTFtime" width="820"/>
 </p>
 
 <p align="center">
-  <a href="https://localhost969.live"><img src="https://img.shields.io/badge/PORTFOLIO-localhost969.live-1c98eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="portfolio"/></a>
-  <a href="https://ctftime.org"><img src="https://img.shields.io/badge/CTFTIME-View_Team-1e48a8?style=for-the-badge&logo=flag&logoColor=white&labelColor=0D1117" alt="ctftime"/></a>
+  <a href="https://localhost969.live"><img src="https://img.shields.io/badge/TEAM_PORTFOLIO-localhost969.live-1c98eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="team portfolio"/></a>
+  <a href="https://ctftime.org/team/425475"><img src="https://img.shields.io/badge/CTFTIME-%2310_in_India-1e48a8?style=for-the-badge&logo=flag&logoColor=white&labelColor=0D1117" alt="ctftime"/></a>
 </p>
 
 <p align="center">
@@ -50,14 +50,11 @@
       <a href="mailto:lokeshnavale.dev@gmail.com"><img src="assets/tile-gmail.svg" alt="Gmail" width="160"/></a>
       <a href="https://discord.com/users/1005536880659529808"><img src="assets/tile-discord.svg" alt="Discord: lokii_11" width="160"/></a>
       <br/>
-      <a href="https://lokii.dev"><img src="assets/tile-portfolio.svg" alt="Portfolio: lokii.dev" width="160"/></a>
-      <a href="https://github.com/10k11"><img src="assets/tile-github.svg" alt="GitHub: 10k11" width="160"/></a>
+      <a href="https://lokii.dev"><img src="assets/tile-portfolio.svg" alt="Portfolio: lokii.dev" width="330"/></a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" width="360" />
-</p>
+<img src="assets/mario-banner.gif" alt="Mario room" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e48a8&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e48a8&height=50&section=footer" width="100%" alt="footer"/>
