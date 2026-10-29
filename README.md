@@ -18,26 +18,17 @@
   <img src="assets/terminal-dark.svg" alt="animated terminal" width="820"/>
 </p>
 
-## ✦ about me
+## About Me
 
-> *full-stack dev who designs it pretty, then tries to break it.* 🖤
+Full-stack developer who sweats the details, from the pixels on screen to the packets underneath.
 
-- 🎨 **ui/ux + web security**: pretty *and* hard to hack
-- 🚩 **ctf player** @ team `localhost969`
-- 🤖 built **Loki.js**, a discord bot for ctf crews
-- ⚡ stack: `typescript` · `node` · `react` · `python`
+I design the interface, build the app behind it, then try to break it. CTF player on team **localhost969**.
 
-## ✦ currently into
+## Currently Into
 
-| | |
-|---|---|
-| 🧪 **breaking** | web exploits, bug-bounty brain |
-| 🛠️ **building** | clean apps, discord tools, automation |
-| 🎧 **designing** | interfaces that actually feel good |
-
-```ts
-while (alive) { play(); break(); build(); design(); }
-```
+<p align="center">
+  <img src="assets/focus.svg" alt="focus status" width="820"/>
+</p>
 
 ## 🛰️ Live Discord Presence
 
