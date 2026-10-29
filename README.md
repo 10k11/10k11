@@ -1,4 +1,4 @@
-<img src="assets/hero-10k11.svg" width="100%" alt="10k11 banner"/>
+<img src="assets/hero-boot.svg" width="100%" alt="10k11 banner"/>
 
 <p align="center">
   <a href="https://github.com/10k11">
