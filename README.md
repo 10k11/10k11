@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
 <p align="center">
   <a href="https://github.com/10k11">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=1C98EB&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+loki.exe+...;%3E+Full-Stack+Developer;%3E+UI%2FUX+%26+Web+Security;%3E+CTF+Player+%7C+Team+localhost969;%3E+play.+break.+build.+design." alt="Typing SVG" />
@@ -142,6 +140,10 @@ Tracking the team's results and rankings on the global CTF scoreboard.
   <a href="mailto:lokeshnavale.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-lokeshnavale.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="gmail"/></a>
   <img src="https://img.shields.io/badge/Discord-lokii__11-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
   <a href="https://localhost969.live"><img src="https://img.shields.io/badge/Portfolio-localhost969.live-0D1117?style=for-the-badge&logo=googlechrome&logoColor=1c98eb" alt="portfolio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" width="420" />
 </p>
 
 <div align="center">
