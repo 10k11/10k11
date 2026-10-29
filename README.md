@@ -38,21 +38,21 @@
 </p>
 
 <p align="center">
-  <img src="assets/bottom-head.svg" alt="Currently and Connect" width="820"/>
+  <img src="assets/head-currently.svg" alt="Currently" width="820"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <a href="https://discord.com/users/1005536880659529808"><img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="460"/></a>
-    </td>
-    <td valign="top">
-      <a href="mailto:lokeshnavale.dev@gmail.com"><img src="assets/tile-gmail.svg" alt="Gmail" width="160"/></a>
-      <a href="https://discord.com/users/1005536880659529808"><img src="assets/tile-discord.svg" alt="Discord: lokii_11" width="160"/></a>
-      <br/>
-      <a href="https://lokii.dev"><img src="assets/tile-portfolio.svg" alt="Portfolio: lokii.dev" width="330"/></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://discord.com/users/1005536880659529808"><img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="480"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/head-connect.svg" alt="Connect" width="820"/>
+</p>
+
+<p align="center">
+  <a href="mailto:lokeshnavale.dev@gmail.com"><img src="assets/tile-gmail.svg" alt="Gmail" width="156"/></a>
+  <a href="https://discord.com/users/1005536880659529808"><img src="assets/tile-discord.svg" alt="Discord: lokii_11" width="156"/></a>
+  <a href="https://lokii.dev"><img src="assets/tile-portfolio.svg" alt="Portfolio: lokii.dev" width="156"/></a>
+</p>
 
 <img src="assets/mario-banner.gif" alt="Mario room" width="100%"/>

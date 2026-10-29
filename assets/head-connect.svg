@@ -9,6 +9,5 @@ svg{--fg:#1f2328;--mut:#57606a;--ac:#0969da;--ln:#d0d7de}
 .m{font-family:'SG',sans-serif;fill:var(--mut)}
 .a{fill:var(--ac)}
 </style>
-<text class="h" x="20" y="48" font-size="34">CURRENTLY</text>
-<text class="h" x="500" y="48" font-size="34">CONNECT</text>
+<text class="h" x="410" y="48" font-size="34" text-anchor="middle">CONNECT</text>
 </svg>
