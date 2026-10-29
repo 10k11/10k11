@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1005536880659529808">
-    <img src="https://lanyard.cnrad.dev/api/1005536880659529808?theme=dark&bg=0D1117&animated=true&borderRadius=14px&idleMessage=Probably%20solving%20a%20CTF" alt="Discord live presence" />
+    <img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="460" />
   </a>
 </p>
 
