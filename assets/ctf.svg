@@ -13,7 +13,7 @@ svg{--fg:#1f2328;--mut:#57606a;--ac:#0969da;--ln:#d0d7de}
 <text class="h a" x="20" y="176" font-size="92" style="letter-spacing:0">5x</text>
 <rect x="168" y="104" width="2" height="82" fill="var(--ln)"/>
 <rect x="168" y="104" width="2" height="30" class="a"/>
-<text class="h" x="192" y="132" font-size="26" style="letter-spacing:3px">CTF WINNER</text>
-<text class="m" x="192" y="164" font-size="18">Competing with team <tspan class="a" font-weight="700">localhost969</tspan></text>
+<text class="h" x="192" y="132" font-size="24" style="letter-spacing:3px">PODIUM FINISHES</text>
+<text class="m" x="192" y="164" font-size="18">1 win and 4 top-3 finishes with team <tspan class="a" font-weight="700">localhost969</tspan></text>
 <text class="m" x="192" y="188" font-size="16">Capture the flag. Repeat.</text>
 </svg>
