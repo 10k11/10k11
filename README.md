@@ -1,8 +1,8 @@
-<img src="assets/hero-boot.svg" width="100%" alt="10k11 banner"/>
+<img src="assets/hero-10k11.svg" width="100%" alt="10k11 banner"/>
 
 <p align="center">
   <a href="https://github.com/10k11">
-    <img src="https://komarev.com/ghpvc/?username=10k11&label=Profile%20views&color=1c98eb&style=flat-square" alt="10k11 profile views" />
+    <img src="https://hits.sh/github.com/10k11/10k11.svg?style=flat-square&label=Profile%20views&color=1c98eb&labelColor=555" alt="10k11 profile views" />
   </a>
 </p>
 
