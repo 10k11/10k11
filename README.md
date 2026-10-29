@@ -18,11 +18,9 @@
   <img src="assets/terminal-dark.svg" alt="animated terminal" width="820"/>
 </p>
 
-## About Me
-
-Full-stack developer who sweats the details, from the pixels on screen to the packets underneath.
-
-I design the interface, build the app behind it, then try to break it. CTF player on team **localhost969**.
+<p align="center">
+  <img src="assets/about.svg" alt="About me" width="820"/>
+</p>
 
 ## Currently Into
 

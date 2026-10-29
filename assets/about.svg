@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="210" viewBox="0 0 820 210">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a371f7"/><stop offset="1" stop-color="#4ec9b0"/></linearGradient>
+    <linearGradient id="hl" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="780" y2="0"><stop offset="0" stop-color="#c9a7ff"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', 'Inter', 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif; }
+      .big { font-size: 27px; font-weight: 700; fill: #f3f3f3; letter-spacing: -0.2px; }
+      .hl  { fill: url(#hl); }
+      .sub { font-size: 17px; font-weight: 400; fill: #d0d0d0; }
+      .tag { font-size: 13px; font-weight: 600; fill: #a371f7; letter-spacing: 3px; }
+      .team { font-weight: 700; fill: #5eead4; }
+      .in { opacity: 0; animation: in .8s ease-out forwards; }
+      .d1 { animation-delay: .1s } .d2 { animation-delay: .4s } .d3 { animation-delay: .8s }
+      @keyframes in { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="818" height="208" rx="12" fill="#1e1e1e" stroke="#3c3c3c" stroke-width="2"/>
+  <rect x="24" y="30" width="4" height="150" rx="2" fill="url(#bar)"/>
+  <text class="tag in d1" x="46" y="44">ABOUT ME</text>
+  <text class="big in d2" x="46" y="86">Full-stack developer who <tspan class="hl">sweats the details,</tspan></text>
+  <text class="big in d2" x="46" y="122">from the <tspan class="hl">pixels on screen</tspan> to the <tspan class="hl">packets underneath.</tspan></text>
+  <text class="sub in d3" x="46" y="158">I design the interface, build the app behind it, then try to break it.</text>
+  <text class="sub in d3" x="46" y="182">CTF player on team <tspan class="team">localhost969</tspan>.</text>
+</svg>
