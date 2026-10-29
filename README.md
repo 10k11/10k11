@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="LOKI banner"/>
+<img src="assets/hero.svg" width="100%" alt="10k11 banner"/>
 
 <p align="center">
   <a href="https://github.com/10k11">
@@ -56,5 +56,3 @@
 </table>
 
 <img src="assets/mario-banner.gif" alt="Mario room" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e48a8&height=50&section=footer" width="100%" alt="footer"/>
