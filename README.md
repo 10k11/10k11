@@ -24,7 +24,7 @@
   <img src="assets/whatido.svg" alt="What I do: Design, Build, Secure" width="820"/>
 </p>
 
-## Now Playing
+## Currently
 
 <p align="center">
   <a href="https://discord.com/users/1005536880659529808">
@@ -36,36 +36,13 @@
   <img src="https://img.shields.io/badge/Discord-lokii__11-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="discord"/>
 </p>
 
-## 🚩 CTF Arena
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏴 Team localhost969
-Our CTF team and its portfolio: writeups, achievements and the crew.
-
-<a href="https://localhost969.live"><img src="https://img.shields.io/badge/PORTFOLIO-localhost969.live-1c98eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="portfolio"/></a>
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📊 CTFtime
-Tracking the team's results and rankings on the global CTF scoreboard.
-
-<a href="https://ctftime.org"><img src="https://img.shields.io/badge/CTFTIME-View_Team-00F5FF?style=for-the-badge&logo=flag&logoColor=white&labelColor=0D1117" alt="ctftime"/></a>
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/ctf.svg" alt="CTF Arena: 5x CTF winner, team localhost969" width="820"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web-Exploitation-1c98eb?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Crypto-00F5FF?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Forensics-1c98eb?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-00F5FF?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/OSINT-1c98eb?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Pwn-00F5FF?style=flat-square&labelColor=0D1117"/>
+  <a href="https://localhost969.live"><img src="https://img.shields.io/badge/PORTFOLIO-localhost969.live-1c98eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="portfolio"/></a>
+  <a href="https://ctftime.org"><img src="https://img.shields.io/badge/CTFTIME-View_Team-1e48a8?style=for-the-badge&logo=flag&logoColor=white&labelColor=0D1117" alt="ctftime"/></a>
 </p>
 
 ## 🛠️ Languages & Tools
