@@ -24,7 +24,7 @@
   <img src="assets/whatido.svg" alt="What I do: Design, Build, Secure" width="820"/>
 </p>
 
-## Locked In Rn
+## Now Playing
 
 <p align="center">
   <a href="https://discord.com/users/1005536880659529808">
