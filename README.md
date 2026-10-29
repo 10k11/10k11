@@ -24,9 +24,7 @@
   <img src="assets/whatido.svg" alt="What I do: Design, Build, Secure" width="820"/>
 </p>
 
-## Live Signal
-
-> Synced from Discord in real time. Whatever I'm into right now shows up here.
+## Locked In Rn
 
 <p align="center">
   <a href="https://discord.com/users/1005536880659529808">
