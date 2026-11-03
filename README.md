@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1005536880659529808"><img src="https://raw.githubusercontent.com/10k11/10k11/discord/discord.svg" alt="Discord live presence" width="480"/></a>
+  <a href="https://discord.com/users/1005536880659529808"><img src="https://10k11.vercel.app/api/discord" alt="Discord live presence" width="480"/></a>
 </p>
 
 <p align="center">
