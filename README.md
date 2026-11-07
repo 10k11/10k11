@@ -15,7 +15,7 @@
 <p align="center">
   <img src="assets/terminal.svg" alt="animated terminal" width="820"/>
 </p>
-<h3 align="center">👀 yo, <a href="https://github.com/l0k11-i2p">l0k11-i2p</a> is also me. old acc is cooked 💀, this one's the main fr</h3>
+<h3 align="center">👀 yo, <a href="https://github.com/l0k11-i2p">l0k11-i2p</a> is also me. old acc is cooked 💀, this one's the main</h3>
 <p align="center">
   <img src="assets/about.svg" alt="About me: Full-stack developer focused on UI/UX and web security. CTF player on team localhost969." width="820"/>
 </p>
