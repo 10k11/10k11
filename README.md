@@ -15,7 +15,7 @@
 <p align="center">
   <img src="assets/terminal.svg" alt="animated terminal" width="820"/>
 </p>
-
+<h3 align="center">👀 yo, <a href="https://github.com/l0k11-i2p">l0k11-i2p</a> is also me. old acc is cooked 💀, this one's the main fr</h3>
 <p align="center">
   <img src="assets/about.svg" alt="About me: Full-stack developer focused on UI/UX and web security. CTF player on team localhost969." width="820"/>
 </p>
@@ -54,7 +54,5 @@
   <a href="https://discord.com/users/1005536880659529808"><img src="assets/tile-discord.svg" alt="Discord: lokii_11" width="156"/></a>
   <a href="https://lokii.dev"><img src="assets/tile-portfolio.svg" alt="Portfolio: lokii.dev" width="156"/></a>
 </p>
-
-<h3 align="center">👀 yo, <a href="https://github.com/l0k11-i2p">l0k11-i2p</a> is also me. old acc is cooked 💀, this one's the main fr</h3>
 
 <img src="assets/mario-banner.gif" alt="Mario room" width="100%"/>
