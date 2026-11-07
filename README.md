@@ -55,8 +55,6 @@
   <a href="https://lokii.dev"><img src="assets/tile-portfolio.svg" alt="Portfolio: lokii.dev" width="156"/></a>
 </p>
 
-<p align="center">
-  <sub>🔁 <b>Looking for my old account?</b> <a href="https://github.com/l0k11-i2p">l0k11-i2p</a> is also mine, but it's no longer recoverable. Both accounts belong to the same person: me. This one (<a href="https://github.com/10k11">10k11</a>) is my active account now.</sub>
-</p>
+<h3 align="center">👀 yo, <a href="https://github.com/l0k11-i2p">l0k11-i2p</a> is also me. old acc is cooked 💀, this one's the main fr</h3>
 
 <img src="assets/mario-banner.gif" alt="Mario room" width="100%"/>
