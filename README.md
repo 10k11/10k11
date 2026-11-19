@@ -1,3 +1,4 @@
+[![Starred on StarSwap](https://www.fenriryt.me/badge/cacheclown)](https://www.fenriryt.me/u/cacheclown?ref=badge)
 <img src="assets/hero-10k11.svg" width="100%" alt="10k11 banner"/>
 
 <p align="center">
